@@ -1,0 +1,25 @@
+Lado superior direito da página do Github clicar na seta ao lado do +
+new repository
+repository name
+description
+public
+add a README file 
+> Create repository.
+A partir disso pode-se adicionar coisas no repositório diretamente pelo site.
+
+Adicionando coisas pelo computador:
+na pasta do repositório clicar em "code" e compiar o link em formato HTTPS
+criar uma pasta no computador para receber o repositório e abrir o git bash nela (clicar com direito e abrir ele)
+no git bash.
+comandos:
+-git clone "colar o link copiado" (clicar com dirento e selecionar paste) enter
+-cd "nome da pasta criada"
+a partir disso, podem ser criadas pastas dentro do repositório no computador para anotar e/ou guardar coisas
+Para enviar as coisas para o site do GitHub
+- No git bash usar o comando "git add ."
+- git commit -m "colocar uma legenda para o que está sendo adicionado"
+- git push origin main	
+agora todos os dados da máquina, na respectiva pasta, foram para a nuvem do github
+
+
+	
